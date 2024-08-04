@@ -1,0 +1,157 @@
+.navbar{
+    list-style: none;
+    display: inline-block;
+}
+.nav-items{
+    display: inline-block;
+    margin-right: 40px;
+    border-radius: 10px;
+    padding: 4px 5px;
+    border: 4px solid red; 
+
+
+}
+.nav-link{
+    border-radius: 5px;
+    padding: 15px;
+    margin: 15px;
+    text-decoration: none;
+    font-size: 35px;
+    color: red;
+    text-transform: capitalize;
+}
+.nav-link:hover{
+    color: blue;
+}
+.box{
+    background-color: rgb(175, 175, 244);
+    padding: 7px;
+    box-shadow: 0 0 6px 5px blue;
+}
+.box1{
+width: 100%;
+height: 700px;
+
+}
+.box2{
+    background-color: aquamarine;
+
+width: 100%;
+height: 600px;
+border: 4px solid green;
+}
+.box3{
+
+    width: 100%;
+    height: 600px;
+    border: 4px solid green;
+    }
+    .box-h1{
+        border: 4px solid red;
+        width: 100%;
+        height: 50px;
+        padding: 6px;
+        text-align: center;
+        color: red;
+        font-size: 16px;
+    }
+.h1{
+        text-align: center;
+        font-size: 15px;
+        color: red;
+}
+.box4{
+        margin: 20px;
+        padding: 10px;
+        width: 20%;
+        height: 450px;
+        border: 1px solid red;
+        display: inline-block;
+        box-shadow:  0 0 4px 5px red,0 0 5px 6px blue,0 0 7px 7px yellow;
+ }
+ .box5{
+    display: inline-block;
+    margin: 20px;
+    padding: 10px;
+    width: 20%;
+    height: 450px;
+    border: 2px solid red;
+ }
+ .box6{
+    display: inline-block;
+    margin: 20px;
+    padding: 10px;
+    width: 20%;
+    height: 450px;
+    border: 2px solid red;
+ }
+
+    
+  .img{
+
+    height: 150px;
+    width: 300px;
+  }
+
+    .box7{
+        display: inline-block;
+        margin: 20px;
+        padding: 10px;
+        width: 20%;
+        height: 450px;
+        border: 2px solid red;
+    
+        }
+        .p{
+            height: 300px;
+            overflow-y: auto;
+            text-align: center;
+            color: red;
+            font-size: 20px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        .box8{
+            
+            display: inline-block;
+            width: 100%;
+            height: 520px;
+
+        }
+        .mi{
+            border: 2px solid white;
+            width:475px;
+            height: 500px;
+            display: inline-block;
+            border-radius: 20px;
+        }
+        .mi1{
+            border: 8px solid white;
+            width: 470px;
+            height: 500px;
+            display: inline-block;
+            
+        }
+        .mi2{
+            border: 8px solid white;
+            width: 470px;
+            height: 500px;
+            display: inline-block; 
+            border-radius: 20px;     
+        }
+        .Mi{
+            text-align:center ;
+            color: blueviolet;
+            text-decoration: dotted;
+            font-size: 50px;
+        }
+        .h2{
+            font-size: 100px;
+            color: red;
+            text-align: center;
+            border: 4px solid red;
+            width: 100%;
+            height: 100px;
+            background-color: darkmagenta;
+            box-shadow: 0 1px 4px red , 7px 5px yellowgreen,4px 5px aquamarine;
+            border-radius: 5px;
+        }
